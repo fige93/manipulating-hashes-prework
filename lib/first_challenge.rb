@@ -13,7 +13,8 @@ def first_challenge
     }
   }
 
-  contacts.each do ||
+  contacts.each do |person, data|
+    data.each
 
 
   
