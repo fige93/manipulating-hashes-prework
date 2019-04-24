@@ -14,7 +14,8 @@ def first_challenge
   }
 
   contacts.each do |person, data|
-    data.each
+    data.each do |attribute, value|
+      
 
 
   
